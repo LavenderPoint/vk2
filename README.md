@@ -11,3 +11,4 @@
 ```csharp
 string file = "vk-task-14.txt";
 ```
+![Результаты работы:](results.png)
