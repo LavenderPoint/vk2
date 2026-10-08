@@ -1,0 +1,14 @@
+C:\VK\Cities\bin\Debug\net8.0\Cities.exe
+C:\VK\Cities\bin\Debug\net8.0\Cities.deps.json
+C:\VK\Cities\bin\Debug\net8.0\Cities.runtimeconfig.json
+C:\VK\Cities\bin\Debug\net8.0\Cities.dll
+C:\VK\Cities\bin\Debug\net8.0\Cities.pdb
+C:\VK\Cities\obj\Debug\net8.0\Cities.GeneratedMSBuildEditorConfig.editorconfig
+C:\VK\Cities\obj\Debug\net8.0\Cities.AssemblyInfoInputs.cache
+C:\VK\Cities\obj\Debug\net8.0\Cities.AssemblyInfo.cs
+C:\VK\Cities\obj\Debug\net8.0\Cities.csproj.CoreCompileInputs.cache
+C:\VK\Cities\obj\Debug\net8.0\Cities.dll
+C:\VK\Cities\obj\Debug\net8.0\refint\Cities.dll
+C:\VK\Cities\obj\Debug\net8.0\Cities.pdb
+C:\VK\Cities\obj\Debug\net8.0\Cities.genruntimeconfig.cache
+C:\VK\Cities\obj\Debug\net8.0\ref\Cities.dll
